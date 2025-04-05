@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "@fartlabs/declarative": "jsr:@fartlabs/declarative@^0.0.7"
+  }
+}
